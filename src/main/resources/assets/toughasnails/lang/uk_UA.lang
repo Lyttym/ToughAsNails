@@ -1,0 +1,96 @@
+commands.toughasnails.usage=/toughasnails <tempinfo|settemp|setseason> [аргументи]
+commands.toughasnails.settemp.success=Установити температуру тіла гравця в %s
+commands.toughasnails.settemp.disabled=Температура тіла наразі вимкнена!
+commands.toughasnails.setseason.success=Установити пору року на %s
+commands.toughasnails.setseason.fail=Недійсна пора року %s
+commands.toughasnails.setseason.disabled=Пори Року наразі вимкнені!
+
+config.category.survivalSettings.title=Налаштування виживання
+
+itemGroup.tabToughAsNails=Tough As Nails
+
+tile.campfire.name=Багаття
+tile.dead_crops.name=Померлі ростки
+tile.glowstone_torch.name=Смолоскип зі світлокаменю
+tile.rain_collector.name=Збирач доща
+tile.temperature_coil.cooling_coil.name=Охолоджувальна шпуля
+tile.temperature_coil.heating_coil.name=Нагрівна шпуля
+tile.season_sensor_spring.name=Сенсор пори року
+tile.season_sensor_summer.name=Сенсор пори року
+tile.season_sensor_autumn.name=Сенсор пори року
+tile.season_sensor_winter.name=Сенсор пори року
+tile.torch_new.name=Смолоскип
+
+item.air_filter.name=Повітряне цідило
+item.bottle_of_blackdamp.name=Бутиль рудничного газу
+item.bottle_of_whitedamp.name=Бутиль чадного газу
+item.bottle_of_firedamp.name=Бутиль грімучого газу
+item.bottle_of_stinkdamp.name=Бутиль сіроводню
+item.clean_water_canteen.name=Фляга чистої води
+item.charcoal_filter.name=Вугільне цідило
+item.dirty_water_canteen.name=Фляга брудної води
+item.dirty_water_bottle.name=Пляшка брудної води
+item.empty_canteen.name=Порожня фляга
+item.filtered_water_canteen.name=Фляга зціженої води
+item.filtered_water_bottle.name=Пляшка зціженої води
+item.freeze_powder.name=Морозний порошок
+item.freeze_rod.name=Морозна патериця
+item.ice_charge.name=Льодяна куля
+item.ice_cube.name=Льодяний куб
+item.jelled_slime.name=Желе
+item.jelled_slime_helmet.name=Желейний шолом
+item.jelled_slime_chestplate.name=Желейна кіраса
+item.jelled_slime_leggings.name=Желейні наголінники
+item.jelled_slime_boots.name=Желейні ногавиці
+item.juice_apple.name=Яблучний сік
+item.juice_beetroot.name=Буряковий сік
+item.juice_cactus.name=Кактусовий сік
+item.juice_carrot.name=Морквяний сік
+item.juice_chorus_fruit.name=Хорусовий сік
+item.juice_glistering_melon.name=Сверкающий арбузный сік
+item.juice_golden_apple.name=Золотой яблочный сік
+item.juice_golden_carrot.name=Золотой морковный сік
+item.juice_melon.name=Кавунний сік
+item.juice_pumpkin.name=Гарбузовий сік
+item.lifeblood_crystal.name=Кристал життєвої сили
+item.respirator.name=Респіратор
+item.season_clock.name=Сезонний годинник
+item.tan_icon.name=Иконка TAN
+item.thermometer.name=Термометр
+item.wool_helmet.name=Бавовняний капюшон
+item.wool_chestplate.name=Бавовняна куртка
+item.wool_leggings.name=Бавовняні штані
+item.wool_boots.name=Бавовняні ногавиці
+
+potion.hypothermia=Переохолодження
+potion.hyperthermia=Перегрівання
+potion.thirst=Спрага
+potion.cold_resistance=Захист від холоду
+potion.heat_resistance=Захист від спеки
+
+potion.effect.cold_resistance_type=Зілля захисту від холоду
+potion.effect.long_cold_resistance_type=Зілля захисту від холоду
+potion.effect.heat_resistance_type=Зілля захисту від спеки
+potion.effect.long_heat_resistance_type=Зілля захисту від спеки
+
+splash_potion.effect.cold_resistance_type=Вибухове зілля захисту від холоду
+splash_potion.effect.long_cold_resistance_type=Вибухове зілля захисту від холоду
+splash_potion.effect.heat_resistance_type=Вибухове зілля захисту від спеки
+splash_potion.effect.long_heat_resistance_type=Вибухове зілля захисту від спеки
+
+lingering_potion.effect.cold_resistance_type=Осідне зілля захисту від холоду
+lingering_potion.effect.long_cold_resistance_type=Осідне зілля захисту від холоду
+lingering_potion.effect.heat_resistance_type=Осідне зілля захисту від спеки
+lingering_potion.effect.long_heat_resistance_type=Осідне зілля захисту від спеки
+
+tipped_arrow.effect.cold_resistance_type=Стріла захисту від холоду
+tipped_arrow.effect.long_cold_resistance_type=Стріла захисту від холоду
+tipped_arrow.effect.heat_resistance_type=Стріла захисту від спеки
+tipped_arrow.effect.long_heat_resistance_type=Стріла захисту від спеки
+
+entity.freeze.name=Льодяний дух
+
+enchantment.warming=Зігрівання
+enchantment.cooling=Охолодження
+enchantment.toughasnails.warming.desc=Підвищує температуру тіла відповідно одягу з бавовни
+enchantment.toughasnails.cooling.desc=Зменшує температуру тіла відповідно желейній броні
